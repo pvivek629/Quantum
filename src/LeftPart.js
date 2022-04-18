@@ -1,4 +1,4 @@
-import { CurrencyRupeeOutlined, Description, DescriptionOutlined, EventNoteSharp, Home, HomeOutlined, LoginRounded, Person, PersonOutlined, Savings, SavingsOutlined, SettingsOutlined, SyncAltOutlined, TocOutlined, UploadFileOutlined } from '@mui/icons-material'
+import { CurrencyRupeeOutlined, DescriptionOutlined, EventNoteSharp, HomeOutlined, LoginRounded,  PersonOutlined,  SavingsOutlined, SettingsOutlined, SyncAltOutlined, TocOutlined, UploadFileOutlined } from '@mui/icons-material'
 import React from 'react'
 import "./LeftPart.css"
 import MiddlePart from './MiddlePart'
