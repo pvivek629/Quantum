@@ -1,4 +1,4 @@
-import { ExpandMoreOutlined, MoreVertOutlined, SouthOutlined, SwitchRightOutlined, TocOutlined, UnfoldMoreOutlined, WarehouseOutlined } from '@mui/icons-material'
+import { ExpandMoreOutlined, MoreVertOutlined, SouthOutlined, TocOutlined, UnfoldMoreOutlined, WarehouseOutlined } from '@mui/icons-material'
 import React from 'react'
 import "./Right.css"
 import RightBottom from './RightBottom'
