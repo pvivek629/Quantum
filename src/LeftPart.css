@@ -1,0 +1,153 @@
+.one{
+    display: grid;
+    grid-template-columns: 18% 30% 48%;
+    grid-auto-rows: minmax(100px, auto);     
+    gap: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 100%;
+    padding-bottom: 2px;
+    
+}
+
+
+/*.data{
+    color: #9933FF;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    list-style: none;
+    align-items: center;
+}
+
+ul{
+    background-color: white;
+}
+li{
+    padding-top: 15px;
+    
+    list-style: none;
+    background-color: white;
+}
+*/
+
+.data{
+    padding: 15px;
+    list-style: none; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 2px;
+    width: 200px;
+    align-items: center;
+    background-color: white;
+  }
+  
+  li a {
+    display: block;
+    color: #603F8B;
+    padding: 10px 40px;
+    text-decoration: none;
+    background-color: white;
+    align-items: center;    
+  }
+   
+
+  
+  /* Change the link color on hover */
+  li a:hover {
+    
+    background-color: #F9F7F7;
+    color: #603F8B;
+  }
+
+
+  .button{
+      padding-left: 0px;
+      padding-top: 2px;
+      padding-right: 12px;
+      background-color: white;
+  }
+
+  .button:hover{
+    background-color: #F9F7F7;
+  }
+ 
+  .upload{
+      padding-right: 12px;
+      background-color: white;
+      box-shadow: 1px 2px 2px 2px lightgrey;
+      border-radius: 5px;
+  }
+
+  .upload1{
+      background-color: white;
+      padding-left: 5px;
+      padding-top: 20px;
+      padding-right: 5px;
+  }
+
+  .submit{
+      font-size: 15px;
+      background-color: white;
+      align-items: center;
+      padding-left: 50px;
+      font-weight: bold;
+  }
+
+  .document{
+      padding-top: 0px;
+      padding-left: 46px;
+      font-size: 15px;
+      font-weight: bold;
+  }
+
+  .logout{
+      display: flex;
+      background-color: white;
+      padding-top: 100px;
+  }
+
+  .login{
+      background-color: white;
+  }
+
+  .logout1{
+      padding-top: 5px;
+      padding-left: 17px;
+      color: lightpurple;
+  }
+
+  .setting{
+      display: flex;
+      background-color: white;
+      padding-top: 12px;
+  }
+
+  .set{
+    background-color: white;
+  }
+
+  .setting1{
+    padding-top: 5px;
+    padding-left: 17px;
+    background-color: white;
+    color: lightpurple;
+    font-size: 12px;
+  }
+
+  /*p{
+      padding-top: 50px;
+      background-color: white;
+  }
+
+  span{
+      display: block;
+      padding-top: 20px;
+      background-color: white;
+  } */
+
+
+

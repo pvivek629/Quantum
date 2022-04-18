@@ -1,0 +1,104 @@
+.right{
+    padding-top: 20px;
+    color: #A45EE5;
+}
+
+.bottom{
+    border-radius: 10px;
+}
+
+.invoice{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.button6{
+    padding-top: 15px;
+    background-color: white;
+    display: flex;
+    padding-left: 19px;
+}
+
+.totransfer{
+    border-radius: 5px;
+
+}
+
+.totransfer1{
+    border-radius: 5px;
+    background-color: #8155BA;
+    border-color: #8155BA;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.transfer{
+    padding-left: 14px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.transfer1{
+    border-radius: 5px;
+    background-color: lightgrey;
+    border-color: lightgrey;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+
+.tableFixHead {
+       
+        height: 210px;
+      }
+
+      .tableFixHead::-webkit-scrollbar {
+        display: none;
+    }
+      .tableFixHead thead th {
+        position: sticky;
+        top: 0;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      th{
+        
+            padding: 14px 18px;
+            
+          }
+      
+      td {
+        padding: 14px 18px;
+        
+      }
+      th {
+        background: white;
+      }
+
+      .invoices{
+          padding-top: 15px;
+          padding-bottom: 10px;
+          padding-left: 15px;
+          background-color: white;
+      }
+
+      .invoices1{
+          padding: 7px 30px 7px 30px;
+          border-radius: 20px;
+          font-size: 15px;
+          background-color: #8155BA;
+          border-color: #8155BA;
+          color: white;
+      }
+
+      .invoices1:hover{
+            background-color: #A45EE5;
+      }

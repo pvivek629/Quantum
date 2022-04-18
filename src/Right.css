@@ -1,0 +1,185 @@
+.data{
+    background-color: white;
+    padding-top: 10px;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    color: #603F8B;
+ }
+
+.dataname {
+    background-color: white;
+    
+}
+
+.data1{
+    display: flex;
+    background-color: white;
+}
+
+
+.account{
+    padding-left: 200px;
+
+}
+
+button{
+    background-color: white;
+    
+}
+
+h1{
+    font-size: 15px;
+    background-color: white;
+}
+
+.button3{
+    padding-left: 155px;  
+    background-color: white;
+    color: #603F8B;  
+    
+}
+
+.account1{
+    border-radius: 5px;
+    background-color: white;
+    color: #603F8B;
+    border-color: lightgrey;
+}
+
+.warehouse{
+    background-color: white;
+    font-size: 5px;
+    padding-right: 8px;
+    color: #603F8B;
+}
+
+.expand{
+    background-color: white;
+    font-size: 5px;
+    padding-left: 49px;
+}
+
+
+.button4{
+    padding-left: 25px;
+    padding-top: 0px;
+    background-color: white;
+    color: #603F8B;
+   
+}
+
+.hours{
+    border-radius: 5px;
+    color: #603F8B;
+    border-color: lightgrey;
+}
+
+.toco{
+    background-color: white;
+    font-size: 5px;
+    padding-right: 8px;
+    color: #603F8B;
+}
+
+.expand1{
+    background-color: white;
+    
+}
+
+.dot{
+    padding-left: 40px;
+    background-color: white;
+    color: #603F8B;
+}
+
+.button5{
+    padding-top: 15px;
+    background-color: white;
+    display: flex;
+}
+
+.execute{
+    border-radius: 5px; 
+    background-color: white;
+}
+
+.execute1{
+    padding-top: 4px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 4px;
+    border-radius: 5px; 
+    background-color: #8155BA;
+    color: white;
+    border-color: #8155BA;
+    font-size: 11px;
+}
+
+.running{
+    background-color: white;
+    padding-left: 10px;
+}
+
+.running1{
+    padding-top: 2px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 2px;
+    border-radius: 5px;
+    background-color: lightgrey;
+    color: white;
+    border-color: lightgrey;
+}
+
+.running1:hover{
+    cursor: pointer;
+}
+
+.table{
+    padding-top: 13px;
+    background-color: white;
+    
+}
+
+
+table {
+    border-collapse: collapse;
+    
+    background-color: white;
+}
+
+thead{
+    background-color: white;
+    
+}
+
+th {
+    background-color: white;
+    padding: 5px 1px;
+    
+    
+    font-size: 13px;
+    font-weight: 100;
+  }
+
+.logo2{
+    background-color: white;
+    padding-left: 5px;
+}
+
+  tr{
+      background-color: white;
+  }
+
+  td {
+    padding: 15px 10px;
+    background-color: white;
+    font-size: 12px;
+  }
+
+.productvalue{
+    font-size: 8px;
+    background-color: white;
+    color: lightgrey;
+}

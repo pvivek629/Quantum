@@ -1,0 +1,197 @@
+.middlepart{
+    padding-top: 1px;
+    color: #603F8B;
+}
+
+.middle{
+    margin: 0;
+    padding-top: 9px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.cash{
+    background-color: white;
+    
+}
+
+
+h2{
+    font-size: 16px;
+    background-color: white;
+}
+
+.icon{
+    padding-left: 290px;
+   background-color: white;
+}
+
+.icon:hover{
+    cursor: pointer;
+}
+
+.money{
+    padding-top:15px;
+    background-color: white;
+}
+
+.heading{
+    background-color: white;
+    font-size: 35px;
+}
+
+.euro{
+    background-color: white;
+    
+}
+
+
+.two{
+    background-color: white;
+}
+
+.currency{
+    background-color: white;
+}
+
+
+.value1{
+    padding-top: 0px;
+    background-color: white;
+}
+
+p{
+    background-color: white;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+
+
+a{
+    padding-left: 250px;
+    background-color: white;
+}
+
+.value{
+    
+    padding-left: 235px;
+}
+
+.euro1{
+    background-color: white;
+
+}
+
+
+
+.secondhalf{
+    padding-top: 20px;
+}
+.new{
+        margin: 0;
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        background-color: white;
+        border-radius: 10px;
+}
+
+h3{
+    background-color: white;
+}
+
+.icon1{
+    padding-left: 310px;
+    background-color: white;
+    
+}
+
+.menu{
+    background-color: white;
+}
+
+.product{
+    background-color: white;
+    display: flex;
+    padding-top: 15px;
+}
+
+.cashname{
+    background-color: white;
+    font-size: 14px;
+}
+
+.visible{
+    background-color: white;
+    padding-left: 275px;
+}
+
+.visibility{
+    background-color: white;
+}
+
+.progress{
+    padding-top: 0px;
+    background-color: white;
+}
+
+progress{
+    width: 360px;
+    height: 10px;
+    border-radius: 10px;
+    background: white;
+}
+
+progress::-webkit-progress-bar {
+    background-color: #eeeeee;
+}
+
+progress::-webkit-progress-value {
+    background: #603F8B;
+    border-radius: 10px;
+    
+}
+
+.money1{
+    font-size: 12px;
+    background-color: white;
+    padding-top: 4px;
+}
+
+.money2{
+    background-color: white;
+}
+
+.money3{
+    background-color: white;
+    padding-left: 42px;
+}
+
+.money4{
+    background-color: white;
+    padding-left: 218px;
+}
+
+.euro3{
+    background-color: white;
+    padding-left: 3px;
+}
+
+.money5{
+    background-color: white;
+    padding-left: 220px;
+}
+
+.money6{
+    background-color: white;
+    padding-left: 39px;
+}
+
+
+
+
